@@ -1,0 +1,574 @@
+{
+  "youtubeId": "https://youtu.be/-ygHXyZu7HU",
+  "scriptText": "I. LAST RADIO\n\n[[STAGING]]\n[[INTENT]]\nCreate a visceral, high-stakes 35mm disaster thriller sequence cross-cutting between a rapidly submerging subterranean parking structure and a storm-battered street-level staging zone, featuring @actor1 as Mark, a trapped superintendent confronting inevitable drowning in surging floodwaters, and @actor2 as Robert, an agonizingly helpless field rescue coordinator attempting to direct an extraction over a failing two-way radio channel.\n[[/INTENT]]\n\n[[LOGIC]]\nMaintain strict complementary 180-degree eyelines across cross-cuts, anchoring Mark's gaze screen-right and upward toward the ceiling access while Robert maintains an eyeline oriented screen-left and downward toward the flooded street grade. Ensure realistic hydrodynamic water physics inside LOC01, prioritizing turbulent churning currents, floating industrial debris inertia, fluid resistance against limb movement, and progressive water-level elevation from chest to neck height. Preserve prop continuity of Mark's heavy yellow walkie-talkie clamped in his right hand and Robert's chest-mounted radio mic, tracking physical button depressions and continuous transmission static. Maintain match-on-action radio communication timing, ensuring off-screen speech carries acoustic boxiness and high-frequency squelch over diegetic speakers.\n[[/LOGIC]]\n\n[[AESTHETIC]]\nMedium: 35mm anamorphic film, cool cyan-tinged shadows, organic halation on wet surfaces, shallow focal plane\nPalette: Subterranean murky olive green, industrial concrete slate grey, high-visibility hazard orange, emergency strobe crimson, cold steel blue\nLighting: At LOC01, flickering subterranean fluorescent ballasts casting erratic greenish-yellow downlight across swirling water; at LOC02, intense halogen tower floodlights cutting through driving rain, punctuated by pulsing amber and red vehicle beacon rotations\nLocation: Subterranean level-3 commercial parking garage with reinforced concrete load-bearing pillars, yellow safety bollards, submerged municipal drainage grates, oil-sheened floodwaters, and exposed ceiling conduit -> LOC01; Municipal storm-response street command staging area with wet asphalt, heavy-duty crowd-control barricades, flood rescue staging tents, flashing emergency light racks, and driving windblown rain -> LOC02\nWardrobe: Mark in dark navy heavy-duty cotton twill maintenance coveralls with high-visibility reflective chest striping, insulated rubber work boots, and brass ring utility belt -> MK01; Robert in fluorescent orange foul-weather storm rescue parka over high-collar black neoprene dive sweater, dark waterproof ripstop tactical trousers, heavy composite rescue boots, and amber-tinted tactical protective eyeglasses -> RO01\nAudio: Diegetic only. Deafening roar of subterranean water cascades, resonant concrete groaning, driving windblown rain clattering on canvas, and continuous tactical radio carrier hum\n[[/AESTHETIC]]\n\n[[OPENING]]\nLow-angle MS at chest height inside LOC01. Mark in MK01 is pinned frame-left against a concrete pillar, waist-deep in churning, foam-flecked floodwater, left arm hooked securely around an overhead conduit pipe and right hand hoisting a yellow walkie-talkie above the surface. Eyeline locked screen-right toward the submerged ramp where swirling debris forms a dark vortex under flickering overhead emergency lights. Motionless moment before the radio crackles.\n[[/OPENING]]\n[[/STAGING]]\n\n[<BRIEF>]\n[CAM 01] Low-angle MS at LOC01 -> [ACT] Mark in MK01 coughs violently, spitting dirty water as a swirling current yanks his lower body screen-right -> <violent hydraulic surge sloshes against concrete> -> [ACT] Mark in MK01 thumb-presses the walkie-talkie talk button with his right hand -> Mark says in English (shouting over water roar, gasping) {Rob! Don't send anyone down the north ramp!} -> <radio transmission chirp> -> [ACT] Mark in MK01 braces his back against the pillar as water churns against his ribs -> <metal debris scrapes along submerged floor>\n[CAM 03] MS tracking forward at LOC02 -> [ACT] Robert in RO01 pushes through the rain-soaked barrier, lifting a handheld speaker mic to his mouth with his left hand while shielding his face from the wind -> Mark says in English (O.S. harsh radio distortion, panting) {The structural gate collapsed... it's a funnel!} -> [ACT] Robert in RO01 halts near an emergency truck, jaw tightening behind his wet glasses -> Robert says in English (firm, urgent effort) {Mark, find high ground! We're rigging the extraction winch now!} -> [CAM 03] PUSH IN to MCU -> <distorted radio squelch cuts out>\n[CAM 04] Tight CU at LOC02 -> [ACT] Robert in RO01 tilts his head down screen-left, pressing the radio speaker tight against his ear as rain sheets across his temple -> Mark says in English (O.S. muffled through walkie speaker, ragged breath) {There is no high ground, Rob.} -> [ACT] Robert in RO01 blinks against driving rain, his breath catching in his throat -> Mark says in English (O.S. static hum, calm resignation) {Water's at my collarbone.} -> [ACT] Robert in RO01 releases his mic grip slightly, fingers trembling against the wet plastic casing -> <tactile radio button spring click>\n[CAM 02] High-angle MCU at LOC01 -> [ACT] Mark in MK01 tilts his head back against the concrete pillar, chin tilted upward as turbulent brown floodwater laps against his neck -> Robert says in English (O.S. tinny walkie squelch, frantic) {Hold on to the conduit! Five minutes, Mark! Five minutes!} -> [ACT] Mark in MK01 closes his eyes briefly, exhaling a shuddering breath that mists under the amber emergency bulb -> Mark says in English (quiet, breathless delivery) {Tell Sarah... the basement lockbox key is under the blue pot.} -> <hollow subterranean pipe clanking underwater> -> [ACT] Mark in MK01 swallows hard, water rising to touch his lower lip -> <gurgling drain suction whirlpool>\n[CAM 01] Low-angle MS at LOC01 -> [ACT] Mark in MK01 raises the yellow walkie-talkie inches from the surging surface, keeping his thumb clamped on the transmitter -> Mark says in English (soft, fading whisper) {She'll know what it means. Take care of her, Rob.} -> [ACT] Mark in MK01 lets out a soft, final sigh, the turbulent water cresting over his shoulders -> <deafening concrete slab groan under hydraulic shear> -> [CAM 01] SLOW TILT UP to flickering overhead emergency lamp -> [ACT] Mark in MK01 slips beneath the foaming surface, leaving only swirling bubbles and an oil slick -> <water cascades violently into submerged stairwell>\n[CAM 04] Tight CU at LOC02 -> [ACT] Robert in RO01 presses the mic desperately to his mouth, eyes wide with horror reflected in rain-streaked amber lenses -> Robert says in English (cracking voice, shouting into static) {Mark? Mark! Answer me!} -> <empty white noise hiss and dead carrier hum> -> [CAM 04] SLOW PULL BACK to MS -> [ACT] Robert in RO01 slowly lowers the radio to his chest, standing motionless as emergency light beacons wash over his bowed head -> <distant siren wail cuts through persistent rain battering>\n[</BRIEF>]",
+  "cues": [
+    {
+      "id": "cue-001",
+      "type": "camera",
+      "selectedText": "[CAM 01]",
+      "startTime": 0,
+      "endTime": 3.8,
+      "speaker": null,
+      "startIndex": 3451,
+      "endIndex": 3459
+    },
+    {
+      "id": "cue-002",
+      "type": "shot",
+      "selectedText": "Low-angle MS at LOC01",
+      "startTime": 0,
+      "endTime": 3.8,
+      "speaker": null,
+      "startIndex": 3460,
+      "endIndex": 3481
+    },
+    {
+      "id": "cue-003",
+      "type": "action",
+      "selectedText": "Mark in MK01 coughs violently, spitting dirty water as a swirling current yanks his lower body screen-right",
+      "startTime": 0,
+      "endTime": 3.5,
+      "speaker": null,
+      "startIndex": 3491,
+      "endIndex": 3598
+    },
+    {
+      "id": "cue-004",
+      "type": "audio",
+      "selectedText": "<violent hydraulic surge sloshes against concrete>",
+      "startTime": 0,
+      "endTime": 3.8,
+      "speaker": null,
+      "startIndex": 3602,
+      "endIndex": 3652
+    },
+    {
+      "id": "cue-005",
+      "type": "action",
+      "selectedText": "Mark in MK01 thumb-presses the walkie-talkie talk button with his right hand",
+      "startTime": 0,
+      "endTime": 1.5,
+      "speaker": null,
+      "startIndex": 3662,
+      "endIndex": 3738
+    },
+    {
+      "id": "cue-008",
+      "type": "action",
+      "selectedText": "Mark in MK01 braces his back against the pillar as water churns against his ribs",
+      "startTime": 0,
+      "endTime": 3.8,
+      "speaker": null,
+      "startIndex": 3884,
+      "endIndex": 3964
+    },
+    {
+      "id": "cue-006",
+      "type": "dialogue",
+      "selectedText": "Rob! Don't send anyone down the north ramp!",
+      "startTime": 0.8,
+      "endTime": 3.3,
+      "speaker": "Mark",
+      "startIndex": 3800,
+      "endIndex": 3843
+    },
+    {
+      "id": "cue-007",
+      "type": "audio",
+      "selectedText": "<radio transmission chirp>",
+      "startTime": 3.3,
+      "endTime": 3.7,
+      "speaker": null,
+      "startIndex": 3848,
+      "endIndex": 3874
+    },
+    {
+      "id": "cue-009",
+      "type": "camera",
+      "selectedText": "[CAM 03]",
+      "startTime": 3.8,
+      "endTime": 9.4,
+      "speaker": null,
+      "startIndex": 4013,
+      "endIndex": 4021
+    },
+    {
+      "id": "cue-010",
+      "type": "shot",
+      "selectedText": "MS tracking forward at LOC02",
+      "startTime": 3.8,
+      "endTime": 9.4,
+      "speaker": null,
+      "startIndex": 4022,
+      "endIndex": 4050
+    },
+    {
+      "id": "cue-011",
+      "type": "action",
+      "selectedText": "Robert in RO01 pushes through the rain-soaked barrier, lifting a handheld speaker mic to his mouth with his left hand while shielding his face from the wind",
+      "startTime": 3.8,
+      "endTime": 6,
+      "speaker": null,
+      "startIndex": 4060,
+      "endIndex": 4216
+    },
+    {
+      "id": "cue-012",
+      "type": "dialogue",
+      "selectedText": "The structural gate collapsed... it's a funnel!",
+      "startTime": 4.1,
+      "endTime": 5.9,
+      "speaker": "Mark",
+      "startIndex": 4281,
+      "endIndex": 4328
+    },
+    {
+      "id": "cue-013",
+      "type": "action",
+      "selectedText": "Robert in RO01 halts near an emergency truck, jaw tightening behind his wet glasses",
+      "startTime": 6,
+      "endTime": 7.5,
+      "speaker": null,
+      "startIndex": 4339,
+      "endIndex": 4422
+    },
+    {
+      "id": "cue-014",
+      "type": "dialogue",
+      "selectedText": "Mark, find high ground! We're rigging the extraction winch now!",
+      "startTime": 6,
+      "endTime": 9.3,
+      "speaker": "Robert",
+      "startIndex": 4472,
+      "endIndex": 4535
+    },
+    {
+      "id": "cue-015",
+      "type": "camera",
+      "selectedText": "PUSH IN",
+      "startTime": 9,
+      "endTime": 9.4,
+      "speaker": null,
+      "startIndex": 4549,
+      "endIndex": 4556
+    },
+    {
+      "id": "cue-016",
+      "type": "shot",
+      "selectedText": "MCU",
+      "startTime": 9,
+      "endTime": 9.4,
+      "speaker": null,
+      "startIndex": 4560,
+      "endIndex": 4563
+    },
+    {
+      "id": "cue-017",
+      "type": "audio",
+      "selectedText": "<distorted radio squelch cuts out>",
+      "startTime": 9.2,
+      "endTime": 9.5,
+      "speaker": null,
+      "startIndex": 4567,
+      "endIndex": 4601
+    },
+    {
+      "id": "cue-018",
+      "type": "camera",
+      "selectedText": "[CAM 04]",
+      "startTime": 9.4,
+      "endTime": 13.4,
+      "speaker": null,
+      "startIndex": 4602,
+      "endIndex": 4610
+    },
+    {
+      "id": "cue-019",
+      "type": "shot",
+      "selectedText": "Tight CU at LOC02",
+      "startTime": 9.4,
+      "endTime": 13.4,
+      "speaker": null,
+      "startIndex": 4611,
+      "endIndex": 4628
+    },
+    {
+      "id": "cue-020",
+      "type": "action",
+      "selectedText": "Robert in RO01 tilts his head down screen-left, pressing the radio speaker tight against his ear as rain sheets across his temple",
+      "startTime": 9.4,
+      "endTime": 12.5,
+      "speaker": null,
+      "startIndex": 4638,
+      "endIndex": 4767
+    },
+    {
+      "id": "cue-021",
+      "type": "dialogue",
+      "selectedText": "There is no high ground, Rob.",
+      "startTime": 9.8,
+      "endTime": 11.2,
+      "speaker": "Mark",
+      "startIndex": 4846,
+      "endIndex": 4875
+    },
+    {
+      "id": "cue-022",
+      "type": "action",
+      "selectedText": "Robert in RO01 blinks against driving rain, his breath catching in his throat",
+      "startTime": 10,
+      "endTime": 12,
+      "speaker": null,
+      "startIndex": 4886,
+      "endIndex": 4963
+    },
+    {
+      "id": "cue-023",
+      "type": "dialogue",
+      "selectedText": "Water's at my collarbone.",
+      "startTime": 11.2,
+      "endTime": 12.4,
+      "speaker": "Mark",
+      "startIndex": 5025,
+      "endIndex": 5050
+    },
+    {
+      "id": "cue-024",
+      "type": "action",
+      "selectedText": "Robert in RO01 releases his mic grip slightly, fingers trembling against the wet plastic casing",
+      "startTime": 12,
+      "endTime": 13.4,
+      "speaker": null,
+      "startIndex": 5061,
+      "endIndex": 5156
+    },
+    {
+      "id": "cue-025",
+      "type": "audio",
+      "selectedText": "<tactile radio button spring click>",
+      "startTime": 13,
+      "endTime": 13.4,
+      "speaker": null,
+      "startIndex": 5160,
+      "endIndex": 5195
+    },
+    {
+      "id": "cue-026",
+      "type": "camera",
+      "selectedText": "[CAM 02]",
+      "startTime": 13.4,
+      "endTime": 20.4,
+      "speaker": null,
+      "startIndex": 5196,
+      "endIndex": 5204
+    },
+    {
+      "id": "cue-027",
+      "type": "shot",
+      "selectedText": "High-angle MCU at LOC01",
+      "startTime": 13.4,
+      "endTime": 20.4,
+      "speaker": null,
+      "startIndex": 5205,
+      "endIndex": 5228
+    },
+    {
+      "id": "cue-028",
+      "type": "action",
+      "selectedText": "Mark in MK01 tilts his head back against the concrete pillar, chin tilted upward as turbulent brown floodwater laps against his neck",
+      "startTime": 13.4,
+      "endTime": 20.4,
+      "speaker": null,
+      "startIndex": 5238,
+      "endIndex": 5370
+    },
+    {
+      "id": "cue-029",
+      "type": "dialogue",
+      "selectedText": "Hold on to the conduit! Five minutes, Mark! Five minutes!",
+      "startTime": 13.6,
+      "endTime": 16.7,
+      "speaker": "Robert",
+      "startIndex": 5435,
+      "endIndex": 5492
+    },
+    {
+      "id": "cue-030",
+      "type": "action",
+      "selectedText": "Mark in MK01 closes his eyes briefly, exhaling a shuddering breath that mists under the amber emergency bulb",
+      "startTime": 14,
+      "endTime": 18,
+      "speaker": null,
+      "startIndex": 5503,
+      "endIndex": 5611
+    },
+    {
+      "id": "cue-032",
+      "type": "audio",
+      "selectedText": "<hollow subterranean pipe clanking underwater>",
+      "startTime": 16.5,
+      "endTime": 20,
+      "speaker": null,
+      "startIndex": 5732,
+      "endIndex": 5778
+    },
+    {
+      "id": "cue-031",
+      "type": "dialogue",
+      "selectedText": "Tell Sarah... the basement lockbox key is under the blue pot.",
+      "startTime": 16.9,
+      "endTime": 20.2,
+      "speaker": "Mark",
+      "startIndex": 5666,
+      "endIndex": 5727
+    },
+    {
+      "id": "cue-033",
+      "type": "action",
+      "selectedText": "Mark in MK01 swallows hard, water rising to touch his lower lip",
+      "startTime": 18.5,
+      "endTime": 20.4,
+      "speaker": null,
+      "startIndex": 5788,
+      "endIndex": 5851
+    },
+    {
+      "id": "cue-034",
+      "type": "audio",
+      "selectedText": "<gurgling drain suction whirlpool>",
+      "startTime": 19.5,
+      "endTime": 20.4,
+      "speaker": null,
+      "startIndex": 5855,
+      "endIndex": 5889
+    },
+    {
+      "id": "cue-035",
+      "type": "camera",
+      "selectedText": "[CAM 01]",
+      "startTime": 20.4,
+      "endTime": 24.8,
+      "speaker": null,
+      "startIndex": 5890,
+      "endIndex": 5898
+    },
+    {
+      "id": "cue-036",
+      "type": "shot",
+      "selectedText": "Low-angle MS at LOC01",
+      "startTime": 20.4,
+      "endTime": 24.8,
+      "speaker": null,
+      "startIndex": 5899,
+      "endIndex": 5920
+    },
+    {
+      "id": "cue-037",
+      "type": "action",
+      "selectedText": "Mark in MK01 raises the yellow walkie-talkie inches from the surging surface, keeping his thumb clamped on the transmitter",
+      "startTime": 20.4,
+      "endTime": 22.5,
+      "speaker": null,
+      "startIndex": 5930,
+      "endIndex": 6052
+    },
+    {
+      "id": "cue-038",
+      "type": "dialogue",
+      "selectedText": "She'll know what it means. Take care of her, Rob.",
+      "startTime": 20.8,
+      "endTime": 23.4,
+      "speaker": "Mark",
+      "startIndex": 6101,
+      "endIndex": 6150
+    },
+    {
+      "id": "cue-039",
+      "type": "action",
+      "selectedText": "Mark in MK01 lets out a soft, final sigh, the turbulent water cresting over his shoulders",
+      "startTime": 22,
+      "endTime": 24,
+      "speaker": null,
+      "startIndex": 6161,
+      "endIndex": 6250
+    },
+    {
+      "id": "cue-040",
+      "type": "audio",
+      "selectedText": "<deafening concrete slab groan under hydraulic shear>",
+      "startTime": 23,
+      "endTime": 24.5,
+      "speaker": null,
+      "startIndex": 6254,
+      "endIndex": 6307
+    },
+    {
+      "id": "cue-043",
+      "type": "action",
+      "selectedText": "Mark in MK01 slips beneath the foaming surface, leaving only swirling bubbles and an oil slick",
+      "startTime": 23,
+      "endTime": 24.6,
+      "speaker": null,
+      "startIndex": 6380,
+      "endIndex": 6474
+    },
+    {
+      "id": "cue-041",
+      "type": "camera",
+      "selectedText": "SLOW TILT UP",
+      "startTime": 23.5,
+      "endTime": 24.8,
+      "speaker": null,
+      "startIndex": 6320,
+      "endIndex": 6332
+    },
+    {
+      "id": "cue-042",
+      "type": "environment",
+      "selectedText": "flickering overhead emergency lamp",
+      "startTime": 23.5,
+      "endTime": 24.8,
+      "speaker": null,
+      "startIndex": 6336,
+      "endIndex": 6370
+    },
+    {
+      "id": "cue-044",
+      "type": "audio",
+      "selectedText": "<water cascades violently into submerged stairwell>",
+      "startTime": 23.5,
+      "endTime": 24.8,
+      "speaker": null,
+      "startIndex": 6478,
+      "endIndex": 6529
+    },
+    {
+      "id": "cue-045",
+      "type": "camera",
+      "selectedText": "[CAM 04]",
+      "startTime": 24.8,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6530,
+      "endIndex": 6538
+    },
+    {
+      "id": "cue-046",
+      "type": "shot",
+      "selectedText": "Tight CU at LOC02",
+      "startTime": 24.8,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6539,
+      "endIndex": 6556
+    },
+    {
+      "id": "cue-047",
+      "type": "action",
+      "selectedText": "Robert in RO01 presses the mic desperately to his mouth, eyes wide with horror reflected in rain-streaked amber lenses",
+      "startTime": 25,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6566,
+      "endIndex": 6684
+    },
+    {
+      "id": "cue-048",
+      "type": "dialogue",
+      "selectedText": "Mark? Mark! Answer me!",
+      "startTime": 25.5,
+      "endTime": 27.8,
+      "speaker": "Robert",
+      "startIndex": 6751,
+      "endIndex": 6773
+    },
+    {
+      "id": "cue-049",
+      "type": "audio",
+      "selectedText": "<empty white noise hiss and dead carrier hum>",
+      "startTime": 26.5,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6778,
+      "endIndex": 6823
+    },
+    {
+      "id": "cue-052",
+      "type": "action",
+      "selectedText": "Robert in RO01 slowly lowers the radio to his chest, standing motionless as emergency light beacons wash over his bowed head",
+      "startTime": 28,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6866,
+      "endIndex": 6990
+    },
+    {
+      "id": "cue-050",
+      "type": "camera",
+      "selectedText": "SLOW PULL BACK",
+      "startTime": 28.5,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6836,
+      "endIndex": 6850
+    },
+    {
+      "id": "cue-051",
+      "type": "shot",
+      "selectedText": "MS",
+      "startTime": 28.5,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6854,
+      "endIndex": 6856
+    },
+    {
+      "id": "cue-053",
+      "type": "audio",
+      "selectedText": "<distant siren wail cuts through persistent rain battering>",
+      "startTime": 28.5,
+      "endTime": 29.966,
+      "speaker": null,
+      "startIndex": 6994,
+      "endIndex": 7053
+    }
+  ],
+  "settings": {
+    "general": {
+      "before": 0.5,
+      "after": 0.5
+    },
+    "dialogue": {
+      "before": 0,
+      "after": 0.7
+    },
+    "action": {
+      "before": 0,
+      "after": 0
+    },
+    "camera": {
+      "before": 0,
+      "after": 0
+    },
+    "shot": {
+      "before": 0,
+      "after": 0
+    },
+    "audio": {
+      "before": 0,
+      "after": 0
+    },
+    "vfx": {
+      "before": 0,
+      "after": 0
+    },
+    "transition": {
+      "before": 0,
+      "after": 0
+    },
+    "environment": {
+      "before": 0,
+      "after": 0
+    }
+  }
+}

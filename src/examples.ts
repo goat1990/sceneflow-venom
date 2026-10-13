@@ -456,6 +456,14 @@ export const EXAMPLE_SECTIONS: ExampleSection[] = [
         description: 'A compilation of Seedance 2.5 music experiments made from text, lip sync, and existing tracks.',
         releaseDate: '2026-09-15',
         tags: ['auteur script', 'seedance 2.5', 'music video'],
+      },
+      {
+        id: 'clip_last_radio',
+        title: 'Last Radio',
+        path: '/examples/ai_clips/clip_last_radio.json',
+        description: 'The dark beneath takes the final breath.',
+        releaseDate: '2026-10-01',
+        tags: ['auteur script', 'seedance 2.5'],
       }
     ]
   }
